@@ -51,6 +51,21 @@ The randomizer uses a json file with a massive list of names, nouns, adjectives,
 
 ## What System Does This Use?
 
+Currently, this is set up to use NWOD, but under a basic ruleset. I use:
+Major Stats
+Skills, but no skill penalties
+Specialties
+Initiative
+Willpower
+Health, but just as hit points
 
-![alt text](https://i.imgur.com/qDGtYQX.png
+How does it work? You start off with random characters for your players. Randomize the Skill List as well so they have skills. Challenge rolls involve a major stat + a skill, and they roll that many d10 dice (for example dexterity+stealth) and count the number of 8s, 9s, and 0s rolled. Any 0 rolled causes a re-roll of that die, giving further chance for a high roll. Attack rolls are Strength or Dexterity + applicable skill (usually weaponry) + dice modifier of the weapon. The target then rolls dexterity + armor (in this system I use the number of pieces of armor the target has. If the attacker rolled higher, the damage dealt is the difference between the number of successful dice. otherwise it's a miss. Spells and magical effects need to be adjusted on the fly because they're all from different universes with different systems. 
+
+Why NWOD? Its simple enough to use by anyone and is pretty flexible. The code in the randomizer is quick garbage spaghetti code i never planned to release to the public, but I may clean it up and add an interface for 5e and other systems. 
+
+Here is a sample character sheet, trimmed down for the rando:
+
+![character sheet](https://github.com/Komarulon/TabletopRPGRandomizer/blob/master/NWOD%20Basic%20Character%20Sheet.png)
+
+![screenshot](https://i.imgur.com/qDGtYQX.png)
 
