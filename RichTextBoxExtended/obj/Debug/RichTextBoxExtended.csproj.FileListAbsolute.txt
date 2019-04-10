@@ -1,0 +1,8 @@
+C:\Users\ian\OneDrive\Code Projects\TabletopRPGRandomizer\RichTextBoxExtended\bin\Debug\RichTextBoxExtended.dll
+C:\Users\ian\OneDrive\Code Projects\TabletopRPGRandomizer\RichTextBoxExtended\bin\Debug\RichTextBoxExtended.pdb
+C:\Users\ian\OneDrive\Code Projects\TabletopRPGRandomizer\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.csprojAssemblyReference.cache
+C:\Users\ian\OneDrive\Code Projects\TabletopRPGRandomizer\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.RichTextBoxExtended.resources
+C:\Users\ian\OneDrive\Code Projects\TabletopRPGRandomizer\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.csproj.GenerateResource.cache
+C:\Users\ian\OneDrive\Code Projects\TabletopRPGRandomizer\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.csproj.CoreCompileInputs.cache
+C:\Users\ian\OneDrive\Code Projects\TabletopRPGRandomizer\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.dll
+C:\Users\ian\OneDrive\Code Projects\TabletopRPGRandomizer\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.pdb
